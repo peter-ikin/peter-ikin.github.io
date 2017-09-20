@@ -1,0 +1,102 @@
+body, html {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: #93a4aa; }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
+section.full {
+  height: 100vh; }
+
+section.half {
+  height: 50vh; }
+
+section > h1, section > h2, section > p {
+  z-index: 1; }
+
+h1 {
+  font-size: 5em;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0px; }
+
+h2 {
+  font-size: 2em;
+  font-weight: 200;
+  color: white; }
+
+p {
+  font-size: 1em;
+  font-weight: 100;
+  color: white; }
+
+.main {
+  background-image: url(../images/bg.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat; }
+  .main::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    pointer-events: none;
+    background-image: linear-gradient(90deg, rgba(49, 61, 65, 0.4), rgba(49, 61, 65, 0.4)); }
+  .main .learn-more {
+    z-index: 1;
+    position: absolute;
+    bottom: 2.5%;
+    left: 50%;
+    transform: translateX(-50%); }
+    .main .learn-more a {
+      text-decoration: none;
+      text-transform: uppercase;
+      color: white;
+      transition: color .3s ease; }
+      .main .learn-more a i {
+        display: block;
+        text-align: center; }
+      .main .learn-more a:hover {
+        color: black; }
+
+.about {
+  background-color: #eee;
+  display: flex;
+  flex-direction: row; }
+  .about .button {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    transition: transform .3s ease; }
+    .about .button a {
+      text-decoration: none;
+      font-size: 2em;
+      color: #531d8e; }
+      .about .button a i {
+        display: block; }
+    .about .button:hover {
+      transform: scale(1.1); }
+
+.foot {
+  background-color: #2A3A3F; }
+  .foot .social-media {
+    display: flex;
+    flex-direction: row; }
+    .foot .social-media > a {
+      color: grey;
+      padding-left: 20px;
+      padding-right: 20px;
+      transition: all .3s ease; }
+    .foot .social-media > a:hover {
+      color: white; }
+  .foot > p {
+    color: grey; }
