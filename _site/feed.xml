@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-20T22:52:27+01:00</updated><id>http://localhost:4000/</id><title type="html">Development Blog</title><subtitle>A blog about all things programming and technology. Featuring tutorials about Web development (JavaScript, HTML5, CSS, Node.js), Mobile development (iOS, swift).
+</subtitle><entry><title type="html">Welcome to my Development Blog!</title><link href="http://localhost:4000/2017/09/20/welcome-to-my-development-blog.html" rel="alternate" type="text/html" title="Welcome to my Development Blog!" /><published>2017-09-20T21:00:00+01:00</published><updated>2017-09-20T21:00:00+01:00</updated><id>http://localhost:4000/2017/09/20/welcome-to-my-development-blog</id><content type="html" xml:base="http://localhost:4000/2017/09/20/welcome-to-my-development-blog.html">&lt;h2 id=&quot;about-me&quot;&gt;About Me&lt;/h2&gt;
+&lt;p&gt;Hello, my name is Peter and I’m a software engineer based in the UK.&lt;/p&gt;
+
+&lt;p&gt;My first computer was the &lt;a href=&quot;https://en.wikipedia.org/wiki/Amstrad_CPC&quot;&gt;Amstrad CPC6128&lt;/a&gt; where I wrote&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;em&gt;extremely&lt;/em&gt; linear text adventure games with glorious 
+ASCII art. I moved onto an Amiga where I played with programming in &lt;a href=&quot;https://en.wikipedia.org/wiki/AMOS_(programming_language)&quot;&gt;AMOS&lt;/a&gt; and discovered the power of the for loop. The
+rest, as they say, is history. I have been programming on and off since then and have done so professionally for well over a decade.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-am-i-writing-this-blog&quot;&gt;Why am I writing this blog?&lt;/h2&gt;
+&lt;p&gt;For one I want to share my love of technology and specifically programming. I have worked with many different technologies and platforms
+over the years and want to try and share some of the things I have learned along the way. I am planning to write short, tips and tricks, style posts
+alongside longer, more in depth tutorial series on various different technologies.&lt;/p&gt;
+
+&lt;p&gt;Also no opening blog post on a programming related site would be complete without the obligatory …&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;hello world!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I should say &lt;em&gt;attempted&lt;/em&gt; to write really, I was only 9, the games were not very good…&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">About Me Hello, my name is Peter and I’m a software engineer based in the UK.</summary></entry></feed>
